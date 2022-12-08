@@ -1,5 +1,5 @@
 Title: Install nano
-Date: 2010-12-07 
+Date: 2022-12-07 
 Category: Installation software
 
 # Instalar Nano en CentOS/RHEL
