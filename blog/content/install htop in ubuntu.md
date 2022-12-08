@@ -16,4 +16,5 @@ Tras esto htop debería quedar instalado en nuestro sistema. Ahora ejecute el si
 ```
 | htop
 ```
-[![image alt text](https://drive.google.com/file/d/1K7UIb2yXdG759M4Jb0k93-LOMC1hxMUV/view?usp=sharing](anchor link)
+![]
+(https://drive.google.com/file/d/1K7UIb2yXdG759M4Jb0k93-LOMC1hxMUV/view?usp=sharing)
