@@ -4,7 +4,7 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="generator" content="Pelican" />
-        <title>it-dev.ar BLOG - Authors</title>
+        <title>it-dev.ar BLOG - Installation software</title>
         <link rel="stylesheet" href="https://blog.it-dev.ar/theme/css/main.css" />
 </head>
 
@@ -12,17 +12,50 @@
         <header id="banner" class="body">
                 <h1><a href="https://blog.it-dev.ar/">it-dev.ar BLOG</a></h1>
                 <nav><ul>
-                    <li><a href="https://blog.it-dev.ar/category/installation-software.html">Installation software</a></li>
+                    <li class="active"><a href="https://blog.it-dev.ar/category/installation-software.html">Installation software</a></li>
                 </ul></nav>
         </header><!-- /#banner -->
 
-<section id="content" class="body">
-    <h1>Authors on it-dev.ar BLOG</h1>
-    <ul>
-        <li><a href="https://blog.it-dev.ar/author/it-devar.html">it-dev.ar</a> (1)</li>
-    </ul>
-</section>
+            <aside id="featured" class="body">
+                <article>
+                    <h1 class="entry-title"><a href="https://blog.it-dev.ar/install-htop.html">Install HTOP</a></h1>
+<footer class="post-info">
+        <abbr class="published" title="2010-12-03T10:20:00+01:00">
+                Published: Fri 03 December 2010
+        </abbr>
 
+        <address class="vcard author">
+                By                         <a class="url fn" href="https://blog.it-dev.ar/author/it-devar.html">it-dev.ar</a>
+        </address>
+<p>In <a href="https://blog.it-dev.ar/category/installation-software.html">Installation software</a>.</p>
+
+</footer><!-- /.post-info --><h1>Como instalar HTOP en centos 7</h1>
+<p>Si queremos instalar htop para poder monitorizar que esta pasando en nuestro linux centos tenemos que realizar unas cosas previas.</p>
+<p>Abre una terminal y usa un usuario con permisos de <strong>root</strong></p>
+<p>Instala el epel repository usando esta instruccion:</p>
+<div class="highlight"><pre><span></span><code>yum -y install epel-release
+</code></pre></div>
+
+<p>Refresca el epel repo con esta instruccion: </p>
+<div class="highlight"><pre><span></span><code>yum repolist
+</code></pre></div>
+
+<p>Instala packages from epel repo: </p>
+<div class="highlight"><pre><span></span><code>yum install pkg1
+</code></pre></div>
+
+<p>Por ultimo</p>
+<div class="highlight"><pre><span></span><code>yum install epel-release
+</code></pre></div>
+
+<p>Instalar HTOP</p>
+<div class="highlight"><pre><span></span><code>yum install htop
+</code></pre></div>
+
+<p>Ejecutar</p>
+<div class="highlight"><pre><span></span><code>htop
+</code></pre></div>                </article>
+            </aside><!-- /#featured -->
         <section id="extras" class="body">
                 <div class="blogroll">
                         <h2>links</h2>
