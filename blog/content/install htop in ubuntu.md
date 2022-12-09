@@ -17,6 +17,6 @@ Tras esto htop debería quedar instalado en nuestro sistema. Ahora ejecute el si
 | htop
 ```
 
-![Alt text](../images/picture.jpg)
+<image src="../images/picture.jpg" alt="Descripción de la imagen">
 
-![Alt text](../images/htop.PNG)
+
