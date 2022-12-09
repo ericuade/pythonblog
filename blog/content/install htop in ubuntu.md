@@ -17,4 +17,6 @@ Tras esto htop debería quedar instalado en nuestro sistema. Ahora ejecute el si
 | htop
 ```
 
-![](../images/picture.jpg)
+![Alt text](../images/picture.jpg)
+
+![Alt text](../images/htop.PNG)
