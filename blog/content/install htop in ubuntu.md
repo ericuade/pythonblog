@@ -8,7 +8,8 @@ Primero vamos a actualizar la caché de los repositorios de paquetes de nuestro 
 ```
 | sudo apt-get update
 ```
-Una vez actualizado el caché del repositorio de paquetes veremos que htop está disponible en el repositorio oficial de Ubuntu 17.10 Artful Aardvark. Para instalar htop, ejecuta el siguiente comando en la misma terminal:
+Una vez actualizado el caché del repositorio de paquetes veremos que htop
+para instalar htop, ejecuta el siguiente comando en la misma terminal:
 ```
 | sudo apt-get install htop
 ```
