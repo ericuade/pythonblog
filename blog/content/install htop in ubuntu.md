@@ -18,6 +18,6 @@ Tras esto htop debería quedar instalado en nuestro sistema. Ahora ejecute el si
 | htop
 ```
 
-<image src="../images/picture.jpg" alt="Descripción de la imagen">
+<image src="/images/picture.jpg" alt="Descripción de la imagen">
 
 
