@@ -18,6 +18,6 @@ Tras esto htop debería quedar instalado en nuestro sistema. Ahora ejecute el si
 | htop
 ```
 
-![Alt text](../images/picture.jpg)
+![](https://raw.githubusercontent.com/ericuade/pythonblog/master/blog/images/picture.jpg)
 
 
