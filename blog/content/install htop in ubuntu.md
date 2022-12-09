@@ -16,4 +16,4 @@ Tras esto htop debería quedar instalado en nuestro sistema. Ahora ejecute el si
 ```
 | htop
 ```
-![](https://github.com/ericuade/pythonblog/blob/master/blog/images/picture.jpg)
+![](https://drive.google.com/file/d/1K7UIb2yXdG759M4Jb0k93-LOMC1hxMUV/view?usp=sharing)
