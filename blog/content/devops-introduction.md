@@ -23,9 +23,9 @@ This section covers different components/tools used in various phases of the Dev
 # References:
 
  - [SDLC](https://www.guru99.com/software-development-life-cycle-tutorial.html): Software Development Life Cycle 
- - Agile: https://www.atlassian.com/agile
- - DevOps: https://aws.amazon.com/devops/what-is-devops/
- - SDLC vs Agile vs DevOps: https://victorops.com/blog/agile-vs-devops
+ - [Agile](https://www.atlassian.com/agile): Agile Atlassian
+ - [DevOps](https://aws.amazon.com/devops/what-is-devops/): Devops AWS
+ - [SDLC vs Agile vs DevOps](https://victorops.com/blog/agile-vs-devops): Agile vs Devops
 
 # Sub-sections/topics to be covered
 
